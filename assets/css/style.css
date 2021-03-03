@@ -69,13 +69,30 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+main section img {
+    max-height: 200px;
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,6 +103,23 @@ p {
     background-color: #2589bd;
 }
 
+aside h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    
+}
+
+aside section {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/* CONSOLIDATED CODE 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +135,7 @@ p {
     color: #ffffff;
 }
 
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +150,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+ 
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +168,11 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
+
+
+/* CONSOLIDATED TO MAIN SECTION
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +200,7 @@ p {
     color: #ffffff;
 }
 
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +212,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -187,14 +228,15 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
