@@ -8,3 +8,5 @@ html file was formatted with proper indentation and structure with updated seman
 
 Screenshots
 
+![screenshot-1](./assets/images/screen_01.jpg)
+![screenshot-2](./assets/images/screen_02.jpg)
