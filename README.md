@@ -8,6 +8,3 @@ html file was formatted with proper indentation and structure with updated seman
 
 Screenshots
 
-![](2021-03-02-21-53-44.png)
-![](2021-03-02-21-54-26.png)
-
