@@ -12,6 +12,10 @@ This is a homework assignemnt to clean up and update the site for accessability 
 
 https://adamnatrop.github.io/code_refactor/
 
+## Link to GitHub Repo
+
+https://github.com/adamnatrop/code_refactor
+
 ## Screenshots
 
 ![screenshot-1](./assets/images/screen_01.jpg)
